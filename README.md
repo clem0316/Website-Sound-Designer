@@ -39,6 +39,8 @@ Un click sur les images permet de lancer le trailer du film concerné.
 - Le site est déployé par Vercel, les vidéos hébergées par Cloudinary.
   (:warning: Il arrive que ce dernier hébergeur ne permette pas l'accès aux vidéos pendant de courts moments)
 
+  Néanmois, le résultat est visible ici : https://website-sound-designer.vercel.app/
+
 <br/>
 <br/>
 
