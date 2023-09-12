@@ -37,9 +37,9 @@ Un click sur les images permet de lancer le trailer du film concerné.
 - Il est possible d'activer le son de la vidéo d'intro du Header
 - N'hésitez pas à me faire part de toute remarque me permettant d'améliorer mon code
 - Le site est déployé par Vercel, les vidéos hébergées par Cloudinary.
-  (:warning: Il arrive que ce dernier hébergeur ne permette pas l'accès aux vidéos pendant de courts moments)
+  (:warning: Il arrive que ce dernier hébergeur ne permette pas l'accès aux vidéos pendant de courts moments). À noter que les problèmes aléatoires d'affichage ne sont pas rencontrés sur les supports mobiles.
 
-  Néanmoins, le résultat est visible ici : https://website-sound-designer.vercel.app/
+  Le résultat est visible ici : https://website-sound-designer.vercel.app/
 
 <br/>
 <br/>
